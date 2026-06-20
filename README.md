@@ -31,7 +31,7 @@ Para resolver este problema de valores en el contorno (BVP), se ha implementado 
 
 IMPLEMENTACIÓN TÉCNICA
 
-C++: Motor de cálculo numérico: Encargado de la discretización de la EDO, la implementación del método de disparo y la evaluación de la solución analítica. Genera los datasets en formato de texto plano (.txt) para asegurar la persistencia de los resultados.
+C++: Encargado de la discretización de la EDO, la implementación del método de disparo y la evaluación de la solución analítica. Genera los datasets en formato de texto plano (.txt) para asegurar la persistencia de los resultados.
 
 MATLAB: Generación de figura con el dataset .txt
 
