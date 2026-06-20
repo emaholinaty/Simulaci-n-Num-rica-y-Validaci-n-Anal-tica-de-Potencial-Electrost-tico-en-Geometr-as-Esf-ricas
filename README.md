@@ -33,7 +33,7 @@ IMPLEMENTACIÓN TÉCNICA
 
 C++: Motor de cálculo numérico: Encargado de la discretización de la EDO, la implementación del método de disparo y la evaluación de la solución analítica. Genera los datasets en formato de texto plano (.txt) para asegurar la persistencia de los resultados.
 
-MATLAB: Entorno de post-procesamiento y visualización: Utilizado para la ingesta de datos externos, el análisis estadístico de la concordancia entre modelos y la generación de representaciones gráficas de alta fidelidad.
+MATLAB: Generación de figura con el dataset .txt
 
 RESULTADOS Y COMPARATIVA
 
